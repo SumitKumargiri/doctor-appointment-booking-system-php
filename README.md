@@ -4,7 +4,6 @@
 The Doctor Appointment Web Application is a user-friendly platform that allows patients to schedule appointments with their preferred doctors. It aims to streamline the process of booking appointments and facilitate better communication between patients and healthcare providers.
 
 Key Features:
-
 User Registration and Authentication:
 
 Patients can create an account or log in using their credentials.
